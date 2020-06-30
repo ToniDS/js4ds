@@ -1,0 +1,23 @@
+1. Typeof is a statement
+
+2. Array.push() appends an element to the end of an array.
+
+3. while does an action until the condition is not met any more
+
+4. +=  is the same as a = a +5
+
+5. Array reverses a table in place, returns the reverse array.
+
+6. Returning [undefined, undefined] instead of undefined has the advantage of being the same type and length as the "normal" behavior. Code then won't break.
+
+7. first: 28, second: NaN
+
+8. creature creates an object (hashmap), variable name as key, variable content as value
+
+9.destructuring assignment tries to break up the object (e.g. hashmap) into its constituent parts.
+works in hashmaps only if the assignment contains the keys
+
+10. Going to add 3 to 6
+	9
+
+ 
