@@ -1,0 +1,6 @@
+Side Effects With forEach
+
+AnnotatingData
+
+Problem: reduce does not include first or last element
+
