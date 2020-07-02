@@ -1,0 +1,19 @@
+Active expressions:
+
+print start got 123
+output = Math.min(123,10) = 10
+left update 10
+print left got 10
+output = 2*10 = 20
+final update 20
+print final got 20
+output = 20
+right update 10
+output = 10+1 = 11
+final update 11
+print final got 11
+output = 11
+
+
+
+
